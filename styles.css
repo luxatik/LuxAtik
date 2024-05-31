@@ -214,3 +214,15 @@ footer {
         display: block;
     }
 }
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+/* Pour les téléphones (écrans petits) */
+@media (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+}
