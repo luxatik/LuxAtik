@@ -15,7 +15,7 @@ header img {
     left: 20px;
     top: 50%;
     transform: translateY(-50%);
-    max-width: 300px; /* Taille réduite du logo */
+    max-width: 200px; /* Taille réduite du logo */
     height: auto;
 }
 .container {
